@@ -24,7 +24,7 @@ This project is created for practice purposes to improve skills in web structure
 
 ## 📷 Project Screenshot
 
-![Amazon Clone Screenshot](amazon.PNG)  
+![Amazon Clone Screenshot](Resources/amazon.PNG)  
 
 ---
 
